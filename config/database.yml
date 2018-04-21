@@ -26,7 +26,7 @@ production:
   pool: 5
   timeout: 5000
   host: localhost
-  database: merm_production
-  username: merm
-  password: P@ssw0rd
+  database: blueproject_production
+  username: postgres
+  password: 
  
